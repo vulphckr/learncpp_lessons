@@ -1,4 +1,4 @@
-### Appunti sui corsi gratuiti di [learncpp.com](learncpp.com) & [https://makefiletutorial.com/](Makefile tutorial by Example)
+### Appunti sui corsi gratuiti di [learncpp.com](learncpp.com) & [Makefile tutorial by Example](https://makefiletutorial.com/)
 
 Tutte le lezioni sono state scritte usando ***markdown***. Le lezioni sono divise in sezioni e si trovano tutte all'interno della cartella `C++`.
 Eventuali immagini linkate si trovano nella cartella `img`
