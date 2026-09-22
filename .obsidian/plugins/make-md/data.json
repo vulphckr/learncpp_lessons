@@ -39,9 +39,7 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//C++",
     "//Immagini",
-    "//img",
     "//img/img/cpp"
   ],
   "expandFolderOnClick": true,
