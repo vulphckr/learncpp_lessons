@@ -40,7 +40,9 @@
   "expandedSpaces": [
     "/",
     "//Immagini",
-    "//img/img/cpp"
+    "//img/img/cpp",
+    "//C++",
+    "//C++/C++/Section 6"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -52,6 +54,8 @@
     "_assets",
     "_blocks"
   ],
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
