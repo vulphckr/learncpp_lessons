@@ -23,7 +23,7 @@ Ho lasciato i settaggi per chiunque volesssse fare un backup del vault su Obsidi
 
 🟢 Chapter 5 ~ Constants and Strings
 
-🔵 Chapter 6 ~ Operators // To be done next: 6.3 ~ Remainder and Exponentiation
+🔵 Chapter 6 ~ Operators // To be done next: 6.7 ~ Relational operators and floating point comparisons
 
 🔴 Chapter O ~ Bit Manipulation
 

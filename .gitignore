@@ -1,8 +1,5 @@
-.obsidian/workspace.json
-.obsidian/app.json
-.obsidian/plugins/remotely-save
-.makemd
-.trash
+.*
+!.gitignore
 
 Investimenti
 !img
