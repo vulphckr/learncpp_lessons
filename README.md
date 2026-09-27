@@ -2,8 +2,6 @@
 
 Tutte le lezioni sono state scritte usando ***markdown***. Le lezioni sono divise in sezioni e si trovano tutte all'interno della cartella `C++`.
 Eventuali immagini linkate si trovano nella cartella `img`
-
-Ho lasciato i settaggi per chiunque volesssse fare un backup del vault su Obsidian.md!
 ##### Progressi
 *Significato simboli:*
 - ⏩ - Saltato momentaneamente
@@ -23,9 +21,9 @@ Ho lasciato i settaggi per chiunque volesssse fare un backup del vault su Obsidi
 
 🟢 Chapter 5 ~ Constants and Strings
 
-🔵 Chapter 6 ~ Operators // To be done next: 6.7 ~ Relational operators and floating point comparisons
+🟢  Chapter 6 ~ Operators
 
-🔴 Chapter O ~ Bit Manipulation
+🔵 Chapter O ~ Bit Manipulation // TODO: O.1 - Bit flags and bit manipulation via `std::bitset`
 
 🔴 Chapter 7 ~ Scope, Duration, and Linkage
 
