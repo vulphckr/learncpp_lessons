@@ -23,9 +23,9 @@ Eventuali immagini linkate si trovano nella cartella `img`
 
 🟢  Chapter 6 ~ Operators
 
-🔵 Chapter O ~ Bit Manipulation // TODO: O.1 - Bit flags and bit manipulation via `std::bitset`
+🟢 Chapter O ~ Bit Manipulation
 
-🔴 Chapter 7 ~ Scope, Duration, and Linkage
+🔵 Chapter 7 ~ Scope, Duration, and Linkage
 
 🔴 Chapter 8 ~ Control Flow
 
