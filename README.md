@@ -25,7 +25,7 @@ Eventuali immagini linkate si trovano nella cartella `img`
 
 🟢 Chapter O ~ Bit Manipulation
 
-🔵 Chapter 7 ~ Scope, Duration, and Linkage
+🔵 Chapter 7 ~ Scope, Duration, and Linkage // To Finish: 7.2
 
 🔴 Chapter 8 ~ Control Flow
 
